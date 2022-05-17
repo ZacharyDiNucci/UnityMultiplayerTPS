@@ -14800,7 +14800,7 @@ MonoBehaviour:
   - {fileID: 3802464008936230194}
   - {fileID: 3802464008936332406}
   hitEffect: {fileID: 6617095889586087806}
-  tracerEffect: {fileID: 550209247323124497, guid: 3083fd17536e63d4a97680c74b432158, type: 3}
+  tracerEffect: {fileID: 550209247323124497, guid: 1b418413696f94648ad6fce82b90681e, type: 3}
   weaponName: heavy_pistol
   raycastOrigin: {fileID: 6617095890298201333}
   raycastTarget: {fileID: 0}
